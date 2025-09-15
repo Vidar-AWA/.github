@@ -19,7 +19,7 @@
 | Repository | 설명 | 제작일 |
 |---|---|---|
 | [legal_knowledge_rag](https://github.com/Vidar-AWA/Legal_Knowledge_RAG_Service) | 법제처 RAG 서비스  | 2025-09-11 |
-| [legal_knowledge_rag](https://github.com/Vidar-AWA/Legal_Knowledge_RAG_Service) | 공사/공종/공정 추출 서비스  | 2025-09-15 |
+| [TBM_Gongjong_Service](https://github.com/Vidar-AWA/TBM_Gongjong_Service) | 공사/공종/공정 추출 서비스  | 2025-09-15 |
 | [law_pdf_chunker](https://github.com/Vidar-AWA/law_pdf_chunker) | 법제처 PDF 문서 시멘틱 청킹 | 2025-09-10 |
 | [redis_stream_example](https://github.com/Vidar-AWA/redis_stream_example) | redis stream 활용 부하 분산 처리 테스트 | 2025-09-09 |
 | [WebRTC-live-streaming](https://github.com/Vidar-AWA/WebRTC-live-streaming) | mediamtx 미디어 서버 및 WebRTC 기반 동영상 스트리밍 서버 | 2025-08-27 |
